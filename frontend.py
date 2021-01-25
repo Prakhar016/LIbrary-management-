@@ -123,7 +123,7 @@ b6 = Button(window, text="Close", width=12,command=window.destroy)
 b6.grid(row=7, column=3)
 
 # Copyright label
-l4 = Label(window, text="Designed and Developed by @Ashutosh")
+l4 = Label(window, text="Designed and Developed by @Prakhar")
 l4.grid(row=8, column=1, columnspan=2)
 
 window.mainloop()
